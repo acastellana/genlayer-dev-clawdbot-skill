@@ -63,9 +63,9 @@ class MyContract(gl.Contract):
 
 ## Installation
 
-### Clawdbot
+### Claw
 ```bash
-clawdbot skill add https://github.com/acastellana/genlayer-dev-claw-skill
+claw skill add https://github.com/acastellana/genlayer-dev-claw-skill
 ```
 
 ### Manual
