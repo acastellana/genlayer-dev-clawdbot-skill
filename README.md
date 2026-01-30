@@ -1,6 +1,6 @@
-# genlayer-dev-clawdbot-skill
+# genlayer-dev-claw-skill
 
-A Clawdbot skill for building GenLayer Intelligent Contracts—Python smart contracts with LLM calls and web access.
+A Claw skill for building GenLayer Intelligent Contracts—Python smart contracts with LLM calls and web access.
 
 ## Purpose
 
@@ -11,7 +11,7 @@ This skill helps AI assistants write and deploy Intelligent Contracts:
 - Deployment workflows
 - Equivalence principles
 
-**For explaining GenLayer concepts**, use the companion skill: [genlayer-clawdbot-skill](https://github.com/acastellana/genlayer-clawdbot-skill)
+**For explaining GenLayer concepts**, use the companion skill: [genlayer-claw-skill](https://github.com/acastellana/genlayer-claw-skill)
 
 ## What's Inside
 
@@ -65,7 +65,7 @@ class MyContract(gl.Contract):
 
 ### Clawdbot
 ```bash
-clawdbot skill add https://github.com/acastellana/genlayer-dev-clawdbot-skill
+clawdbot skill add https://github.com/acastellana/genlayer-dev-claw-skill
 ```
 
 ### Manual
@@ -73,7 +73,7 @@ Clone to your skills directory and reference in your agent config.
 
 ## Related
 
-- **Companion skill:** [genlayer-clawdbot-skill](https://github.com/acastellana/genlayer-clawdbot-skill) — For explaining GenLayer
+- **Companion skill:** [genlayer-claw-skill](https://github.com/acastellana/genlayer-claw-skill) — For explaining GenLayer
 - **Docs:** https://docs.genlayer.com
 - **SDK:** https://sdk.genlayer.com
 - **GitHub:** https://github.com/genlayerlabs

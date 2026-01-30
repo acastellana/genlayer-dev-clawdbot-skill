@@ -1,5 +1,5 @@
 ---
-name: genlayer-dev-clawdbot-skill
+name: genlayer-dev-claw-skill
 description: Build GenLayer Intelligent Contracts - Python smart contracts with LLM calls and web access. Use for writing/deploying contracts, SDK reference, CLI commands, equivalence principles, storage types. Triggers: write intelligent contract, genlayer contract, genvm, gl.Contract, deploy genlayer, genlayer CLI. (For explaining GenLayer concepts, use the genlayer skill instead.)
 ---
 
